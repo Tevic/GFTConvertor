@@ -1,0 +1,24 @@
+D:\Developer\Project\GFTConvertor\GFTConvertor\bin\Debug\GFTConvertor.exe
+D:\Developer\Project\GFTConvertor\GFTConvertor\bin\Debug\GFTConvertor.pdb
+D:\Developer\Project\GFTConvertor\GFTConvertor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Developer\Project\GFTConvertor\GFTConvertor\obj\x86\Debug\GFTConvertor.MainForm.resources
+D:\Developer\Project\GFTConvertor\GFTConvertor\obj\x86\Debug\GFTConvertor.Properties.Resources.resources
+D:\Developer\Project\GFTConvertor\GFTConvertor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Developer\Project\GFTConvertor\GFTConvertor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Developer\Project\GFTConvertor\GFTConvertor\obj\x86\Debug\GFTConvertor.exe
+D:\Developer\Project\GFTConvertor\GFTConvertor\obj\x86\Debug\GFTConvertor.pdb
+D:\Developer\Project\GFTConvertor\GFTConvertor\bin\Debug\GFTConvertor.exe.config
+D:\Developer\Project\GFTConvertor\GFTConvertor\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Developer\Project\GFTConvertor\GFTConvertor\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\bin\Debug\GFTConvertor.exe.config
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\obj\x86\Debug\GFTConvertor.exe
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\obj\x86\Debug\GFTConvertor.pdb
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\bin\Debug\GFTConvertor.exe
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\bin\Debug\GFTConvertor.pdb
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\obj\x86\Debug\GFTConvertor.MainForm.resources
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\obj\x86\Debug\GFTConvertor.Properties.Resources.resources
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\obj\x86\Debug\GenerateResource.write.1.tlog

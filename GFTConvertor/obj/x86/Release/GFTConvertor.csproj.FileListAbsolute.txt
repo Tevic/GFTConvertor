@@ -1,0 +1,21 @@
+D:\Developer\Project\GFTConvertor\GFTConvertor\bin\Release\GFTConvertor.exe.config
+D:\Developer\Project\GFTConvertor\GFTConvertor\bin\Release\GFTConvertor.exe
+D:\Developer\Project\GFTConvertor\GFTConvertor\bin\Release\GFTConvertor.pdb
+D:\Developer\Project\GFTConvertor\GFTConvertor\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Developer\Project\GFTConvertor\GFTConvertor\obj\x86\Release\GFTConvertor.MainForm.resources
+D:\Developer\Project\GFTConvertor\GFTConvertor\obj\x86\Release\GFTConvertor.Properties.Resources.resources
+D:\Developer\Project\GFTConvertor\GFTConvertor\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\Developer\Project\GFTConvertor\GFTConvertor\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\Developer\Project\GFTConvertor\GFTConvertor\obj\x86\Release\GFTConvertor.exe
+D:\Developer\Project\GFTConvertor\GFTConvertor\obj\x86\Release\GFTConvertor.pdb
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\bin\Release\GFTConvertor.exe.config
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\obj\x86\Release\GFTConvertor.exe
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\obj\x86\Release\GFTConvertor.pdb
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\bin\Release\GFTConvertor.exe
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\bin\Release\GFTConvertor.pdb
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\obj\x86\Release\GFTConvertor.MainForm.resources
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\obj\x86\Release\GFTConvertor.Properties.Resources.resources
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\Developer\Project\GFTConvertor - 副本\GFTConvertor\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\Developer\Project\GFTConvertor\GFTConvertor\obj\x86\Release\GenerateResource.write.95.tlog
